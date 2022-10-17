@@ -1,2 +1,8 @@
 # mySchool
-A school website landing page. HTML BEGINNER LEVEL
+HTML BEGINNER LEVEL
+
+
+
+
+
+A school website landing page. 
